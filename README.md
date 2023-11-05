@@ -6,6 +6,8 @@ Anaïs Malet, anais.malet@epfedu.fr
 
 Date of creation : 16/10/2023
 
+### This NLP Project is not finished 
+
 ### Content
 
 This dataset consisting of 20k reviews crawled from Tripadvisor.
