@@ -50,11 +50,11 @@ The dataset used in this project consists of 20,000 reviews crawled from TripAdv
 
 The table below summarizes the performance metrics of each implemented model:
 
-| Model                | Accuracy | Precision | Recall | F1-Score |
+| Model                | Accuracy | Recall | Precision | F1-Score |
 |----------------------|----------|-----------|--------|----------|
-| Baseline Model       | 0.64      | 0.58      | 0.59   | 0.58     |
-| Improved Model       | 0.65     | 0.64      | 0.65   | 0.64     |
-| Deep Learning Model  | 0.72     | 0.71      | 0.72   | 0.71     |
+| Baseline Model       | 0.64      | 0.53      | 0.61   | 0.55     |
+| Improved Model       | 0.63     | 0.52     | 0.60   | 0.55     |
+| Deep Learning Model  | 0.59     | 0.40      | 0.50   | 0.44     |
 
 ### 4. Installation and Execution
 
